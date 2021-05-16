@@ -1,0 +1,10 @@
+body{
+background-color: coral;
+}
+#output{
+background-color: aliceblue;
+border-radius: 10px;
+border-top:10px solid maroon;
+float:none;
+text-align: left;
+}
